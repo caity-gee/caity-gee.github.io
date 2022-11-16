@@ -1,0 +1,7 @@
+U:\WordGuessingGameDemo\bin\Debug\WordGuessingGameDemo.exe.config
+U:\WordGuessingGameDemo\bin\Debug\WordGuessingGameDemo.exe
+U:\WordGuessingGameDemo\bin\Debug\WordGuessingGameDemo.pdb
+U:\WordGuessingGameDemo\obj\Debug\WordGuessingGameDemo.csproj.AssemblyReference.cache
+U:\WordGuessingGameDemo\obj\Debug\WordGuessingGameDemo.csproj.CoreCompileInputs.cache
+U:\WordGuessingGameDemo\obj\Debug\WordGuessingGameDemo.exe
+U:\WordGuessingGameDemo\obj\Debug\WordGuessingGameDemo.pdb
